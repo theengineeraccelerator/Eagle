@@ -1,0 +1,32 @@
+# This the view for finding unrouted traces
+
+display -1  #top
+display -2 # 2 layer
+display -15 # 3layer 
+display -16 #bottom
+display -17 #pads
+display -18 #vias
+display -19 #unrouted
+display 20 #dimension
+display -21 #tPlace
+display -22 #bPlace
+display -23 #tOrigin
+display -24 #bOrigin
+display 25 #tNames
+display -26 #bNames
+
+display -29 #tStop
+display -30 #bStop
+
+display -44 #drills
+display 45 #holes
+display 46 #mills
+
+display -48 #Document
+
+
+display -51 #tDocu
+display -52 #bDocu
+
+display -144 #Drill Drawing
+display -150 #Notes
