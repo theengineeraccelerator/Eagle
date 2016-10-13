@@ -1,4 +1,4 @@
-description[en] = \n\n<b>Othermill EAGLE Design Rules v2</b>\n<p>DRC for Othermill, 30º Engraving Bit</p>\n<b>-- Rules --</b><li>6 mil traces</li>\n<li>6mil clearance</li>\n
+description[en] = \n\n\n<b>Othermill EAGLE Design Rules v2</b>\n<p>DRC for Othermill, 30º Engraving Bit</p>\n<b>-- Rules --</b><li>6 mil traces</li>\n<li>6mil clearance</li>\n
 layerSetup = (1*16)
 mtCopper = 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm
 mtIsolate = 1.5mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm
@@ -33,8 +33,8 @@ rlMinPadInner = 20mil
 rlMaxPadInner = 40mil
 rlMinPadBottom = 20mil
 rlMaxPadBottom = 40mil
-rlMinViaOuter = 10mil
-rlMaxViaOuter = 20mil
+rlMinViaOuter = 20mil
+rlMaxViaOuter = 40mil
 rlMinViaInner = 8mil
 rlMaxViaInner = 20mil
 rlMinMicroViaOuter = 4mil
